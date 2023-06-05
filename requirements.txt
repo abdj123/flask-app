@@ -32,7 +32,6 @@ mnemonic==0.13
 multidict==6.0.4
 parsimonious==0.9.0
 pbkdf2==1.3
-pkg_resources==0.0.0
 protobuf==4.23.2
 pycryptodome==3.18.0
 pyrsistent==0.19.3
